@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Pedro Gomes!
 
 [![GitHub followers](https://img.shields.io/github/followers/Pedrogom7?style=social)](https://github.com/Pedrogom7)
-[![Linkedin: Pedro Gomes](https://img.shields.io/badge/-Pedro_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrogom7/)](https://www.linkedin.com/in/pedrogom7/)
+[![Linkedin: Pedro Gomes](https://img.shields.io/badge/-Pedro_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-gomes-ab680a268/)](https://www.linkedin.com/in/pedro-gomes-ab680a268/))
 [![Instagram: Pedrogom7](https://img.shields.io/badge/-Pedrogom7-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrogom7/)](https://www.instagram.com/pedrogom7/)
 [![GitHub Pedrogom7](https://img.shields.io/github/stars/Pedrogom7?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/Pedrogom7)
 
