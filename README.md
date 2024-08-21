@@ -27,17 +27,11 @@ Welcome to my GitHub profile! I am Pedro Gomes, a software engineering student a
 ## 📚 Featured Projects
 
 ### [Portfolio](https://github.com/Pedrogom7/portfolio)
-A brief description of your portfolio project. Although it is still a work in progress, it showcases your skills and the technologies you are proficient in.
-
-## ✍️ Latest Blog Posts
-
-- [How to Build Scalable Web Applications](https://yourblog.com/scalable-web-apps)
-- [Understanding Async Programming in JavaScript](https://yourblog.com/async-js)
-- [A Beginner's Guide to Swift](https://yourblog.com/swift-guide)
+My portfolio is not quite ready yet, but you can see the projects I'm current working on, by accessing my repositories.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Pedro Gomes](https://www.linkedin.com/in/pedrogom7/)
+- LinkedIn: [Pedro Gomes](https://www.linkedin.com/in/pedro-gomes-ab680a268/)
 - Twitter: [@Pedrogom7](https://twitter.com/Pedrogom7)
 - Instagram: [@Pedrogom7](https://www.instagram.com/pedrogom7/)
 - Email: pedrotemtem@hotmail.com
