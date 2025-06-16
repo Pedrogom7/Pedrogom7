@@ -1,5 +1,5 @@
 <!-- Banner com ondas azuis -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:007CF0,100:00C6FF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:007CF0,100:00C6FF&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pedro+Gomes.;Software+Engineering+Student.;Passionate+about+Code+%26+Music." alt="Typing SVG" />
