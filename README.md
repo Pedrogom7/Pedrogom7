@@ -1,5 +1,8 @@
+<!-- Banner com ondas azuis -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:007CF0,100:00C6FF&section=header"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pedro+Gomes.;Software+Engineering+Student.;Passionate+about+Code+%26+Music." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pedro+Gomes.;Software+Engineering+Student.;Passionate+about+Code+%26+Music." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,13 +50,34 @@ Hi, I'm Pedro — a software engineering student passionate about clean code, el
 
 ---
 
-## 🖥️ [Personal Portfolio](https://github.com/Pedrogom7/portfolio)
+## 🌐 Featured Projects
+
+### 🖥️ [Personal Portfolio](https://github.com/Pedrogom7/portfolio)
 > A clean, animated portfolio designed to showcase my skills, projects, and creativity.
 
 - Built with **React**, **TypeScript**, **TailwindCSS**
 - Powered by **Framer Motion** animations and responsive UI
 - Simple, direct, modern — like this README 😉
 
+---
+
+### 🎧 [Echoes of Silence (WWDC 2025)](https://github.com/Pedrogom7/EchoesOfSilenceWWDC25)
+> An immersive Swift app that tells Beethoven's story through music, emotion, and AR.
+
+- Learn to play *Für Elise* on a virtual piano  
+- Explore Beethoven's resilience through sound and story  
+- Built with **Swift**, **SwiftUI**, **ARKit**, and **AVFoundation**
+
+---
+
+### 🧠 [Marvel API Gateway](https://github.com/Pedrogom7/API-Marvel-DP5)
+> Custom REST API built in TypeScript that connects to Marvel's database.
+
+- Explore sagas, characters, comics and events  
+- Full CRUD and entity modeling  
+- Built with **Node.js**, **Express**, **MongoDB**
+
+---
 
 ## 🎵 Music, My Other Language
 
