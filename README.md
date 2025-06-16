@@ -61,24 +61,6 @@ Hi, I'm Pedro — a software engineering student passionate about clean code, el
 
 ---
 
-### 🎧 [Echoes of Silence (WWDC 2025)](https://github.com/Pedrogom7/EchoesOfSilenceWWDC25)
-> An immersive Swift app that tells Beethoven's story through music, emotion, and AR.
-
-- Learn to play *Für Elise* on a virtual piano  
-- Explore Beethoven's resilience through sound and story  
-- Built with **Swift**, **SwiftUI**, **ARKit**, and **AVFoundation**
-
----
-
-### 🧠 [Marvel API Gateway](https://github.com/Pedrogom7/API-Marvel-DP5)
-> Custom REST API built in TypeScript that connects to Marvel's database.
-
-- Explore sagas, characters, comics and events  
-- Full CRUD and entity modeling  
-- Built with **Node.js**, **Express**, **MongoDB**
-
----
-
 ## 🎵 Music, My Other Language
 
 Outside of code, I live and breathe music. It inspires how I create and how I think.
